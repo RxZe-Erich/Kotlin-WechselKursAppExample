@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="hello">Hello</string>
+    <string name="text1">Hello</string>
+    <string name="text2">Hello</string>
+    <string name="priceAscending">Price▲</string>
+    <string name="priceDescending">Price▼</string>
+</resources>
